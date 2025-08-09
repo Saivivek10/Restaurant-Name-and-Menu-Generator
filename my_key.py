@@ -1,0 +1,1 @@
+openapi_key = 'sk-proj-GMlvM3nwdD1mAmRDLT8UTdqhBg_5lKqhBTPpuyADQO6jTwIhIoUYADjjs4LvdHfBCQJmAp69XGT3BlbkFJT35T5KTwBNCjR4XXxHiCjFm1fjM2NvpawrsgqT3ia1IBAgSrun9RdHvcorQFpKkLqIl1DMV'
